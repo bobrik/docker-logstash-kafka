@@ -2,7 +2,7 @@
 
 This is [logstash](https://registry.hub.docker.com/u/bobrik/logstash/)
 image with installed kafka plugin. Versions are coming
-from kafka plugin, logstash is on latest stable version.
+from kafka plugins, logstash is on latest stable version.
 
 ## Running
 
